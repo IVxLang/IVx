@@ -1,1 +1,1 @@
-
+A hobby programming language.
